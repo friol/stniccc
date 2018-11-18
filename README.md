@@ -1,0 +1,2 @@
+# stniccc
+STNICCC demo competition
