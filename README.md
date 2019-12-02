@@ -7,3 +7,7 @@ This is a port of the 3d part of the "STNICCC2000 Demo" by the Oxygene demogroup
 
 See the result online here http://dantonag.it/stniccc/goDemo.html
 
+A screenshot:
+
+<img src="demoframe.png" alt="screenshot1" width="256" height="200">
+
